@@ -1,6 +1,6 @@
 
 ```shell
-  go get github.com/mtmuo/go-pipeline
+  go get github.com/mtmuo/pipeline
 ```
 
 
